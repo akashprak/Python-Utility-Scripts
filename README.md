@@ -11,5 +11,5 @@ This workspace contains various utility scripts written in Python to help automa
 
 ## Getting Started
 
-1. Open any notebook in the `notebooks/` folder with Jupyter or VS Code.
+1. Open any notebook with Jupyter or VS Code.
 2. Follow the instructions in each notebook to use the utility.
